@@ -111,4 +111,8 @@ ItemDisplay[gpr]: %ORANGE%PERFECT RUBY
 ItemDisplay[gpb]: %ORANGE%PERFECT SAPPHIRE
 ItemDisplay[gpy]: %ORANGE%PERFECT TOPAZ
 ItemDisplay[skz]: %ORANGE%PERFECT SKULL
+//Catchall
+ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[ETH SOCK=0]: ETH %NAME%
+ItemDisplay[SOCK>0]: %NAME% [%SOCKETS%]
 //
