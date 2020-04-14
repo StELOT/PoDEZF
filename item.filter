@@ -1,4 +1,4 @@
-ItemDisplay[GOLD<4000]:
+﻿ItemDisplay[GOLD<4000]:
 //Health & Mana Potions
 ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
 ItemDisplay[hp4]: %RED%!%WHITE%H
@@ -111,6 +111,17 @@ ItemDisplay[gpr]: %ORANGE%PERFECT RUBY
 ItemDisplay[gpb]: %ORANGE%PERFECT SAPPHIRE
 ItemDisplay[gpy]: %ORANGE%PERFECT TOPAZ
 ItemDisplay[skz]: %ORANGE%PERFECT SKULL
+//Runes
+ItemDisplay[r24]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
+ItemDisplay[r25]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
+ItemDisplay[r26]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
+ItemDisplay[r27]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
+ItemDisplay[r28]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
+ItemDisplay[r29]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
+ItemDisplay[r30]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
+ItemDisplay[r31]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
+ItemDisplay[r32]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
+ItemDisplay[r33]: %ORANGE%<<<<<<< %RUNENAME% >>>>>>>
 //Catchall
 ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
 ItemDisplay[ETH SOCK=0]: ETH %NAME%
