@@ -38,8 +38,8 @@ ItemDisplay[opl CLVL>14]:
 ItemDisplay[ops CLVL>14]:
 ItemDisplay[gps CLVL>14]:
 ItemDisplay[gpl CLVL>14]:
-ItemDisplay[vps CLVL<24]: %GREEN%!%WHITE%Stam
-ItemDisplay[vps CLVL>54]:
+ItemDisplay[vps CLVL<25]: %GREEN%!%WHITE%Stam
+ItemDisplay[vps CLVL>25]:
 //Hide MAGIC Quivers & Bolts above level 60
 ItemDisplay[aq2 MAG ILVL>41]:
 ItemDisplay[cq2 MAG ILVL>41]:
