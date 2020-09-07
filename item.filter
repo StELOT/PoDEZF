@@ -112,17 +112,665 @@ ItemDisplay[gpb]: %ORANGE%PERFECT SAPPHIRE
 ItemDisplay[gpy]: %ORANGE%PERFECT TOPAZ
 ItemDisplay[skz]: %ORANGE%PERFECT SKULL
 //Runes
-ItemDisplay[r24]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r25]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r26]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r27]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r28]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r29]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r30]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r31]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r32]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r33]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[r24]: %ORANGE%@[[[[[[[[ %RUNENAME% ]]]]]]]]@
+ItemDisplay[r25]: %ORANGE%@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@
+ItemDisplay[r26]: %ORANGE%@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@
+ItemDisplay[r27]: %ORANGE%@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@
+ItemDisplay[r28]: %ORANGE%@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@
+ItemDisplay[r29]: %ORANGE%@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@
+ItemDisplay[r30]: %ORANGE%@@@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@@@
+ItemDisplay[r31]: %ORANGE%@@@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@@@
+ItemDisplay[r32]: %ORANGE%@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@
+ItemDisplay[r33]: %ORANGE%@@@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@@@
+
+//Weapons: Axe, Mace, Sword, Dagger, Throwing Weapon, Javelin, Spear, Polearm, Bow, Crossbow
+ItemDisplay[MAG WP1 !ID ILVL>25]:
+ItemDisplay[MAG WP2 !ID ILVL>25]:
+ItemDisplay[MAG WP3 !ID ILVL>25]:
+ItemDisplay[MAG WP4 !ID ILVL>25]:
+ItemDisplay[MAG WP5 !ID ILVL>25]:
+ItemDisplay[MAG WP6 !ID ILVL>25]:
+ItemDisplay[MAG WP7 !ID ILVL>25]:
+ItemDisplay[MAG WP8 !ID ILVL>25]:
+ItemDisplay[MAG WP9 !ID ILVL>25]:
+ItemDisplay[MAG WP10 !ID ILVL>25]:
+//
+//Shields - Hidden !monarch !troll nest
+ItemDisplay[MAG EQ3 !ID !uit !ush ILVL>60]:
+//
+//Elite Boots - Shown
+ItemDisplay[ELT MAG EQ5 !ID ILVL>60]: 
+//Non Elite Boots - Hidden
+ItemDisplay[MAG ubh !ID ILVL>60]:
+ItemDisplay[MAG xhb !ID ILVL>60]:
+ItemDisplay[MAG hbt !ID ILVL>60]:
+ItemDisplay[MAG utb !ID ILVL>60]:
+ItemDisplay[MAG xtb !ID ILVL>60]:
+ItemDisplay[MAG tbt !ID ILVL>60]:
+ItemDisplay[MAG umb !ID ILVL>60]:
+ItemDisplay[MAG xmb !ID ILVL>60]:
+ItemDisplay[MAG mbt !ID ILVL>60]:
+ItemDisplay[MAG uvb !ID ILVL>60]:
+ItemDisplay[MAG xvb !ID ILVL>60]:
+ItemDisplay[MAG vbt !ID ILVL>60]:
+ItemDisplay[MAG xlb !ID ILVL>60]:
+ItemDisplay[MAG lbt !ID ILVL>60]:
+//
+
+//Elite Belts - Shown
+ItemDisplay[ELT MAG EQ6 !ID ILVL>60]:
+//Non Elite Belts - Hidden
+ItemDisplay[MAG uhc !ID ILVL>60]:
+ItemDisplay[MAG zhb !ID ILVL>60]:
+ItemDisplay[MAG hbl !ID ILVL>60]:
+ItemDisplay[MAG utc !ID ILVL>60]:
+ItemDisplay[MAG ztb !ID ILVL>60]:
+ItemDisplay[MAG tbl !ID ILVL>60]:
+ItemDisplay[MAG mbl !ID ILVL>60]:
+ItemDisplay[MAG vbl !ID ILVL>60]:
+ItemDisplay[MAG ulc !ID ILVL>60]:
+ItemDisplay[MAG zlb !ID ILVL>60]:
+ItemDisplay[MAG lbl !ID ILVL>60]:
+//
+
+//Gloves
+ItemDisplay[MAG xhg !ID ILVL>60]:
+ItemDisplay[MAG xlg !ID ILVL>60]:
+ItemDisplay[MAG ulg !ID ILVL>60]:
+ItemDisplay[MAG utg !ID ILVL>60]:
+ItemDisplay[MAG xtg !ID ILVL>60]:
+
+//Normal
+//Vendor Items
+ItemDisplay[NMAG WP11]: 
+ItemDisplay[NMAG WP12]:
+ItemDisplay[NMAG WP13]: 
+ItemDisplay[NMAG CL4]: 
+ItemDisplay[NMAG CL6]: 
+//None of the Above
+//Weapons: Axe, Mace, Sword, Dagger, Throwing Weapon, Javelin, Spear, Polearm, Bow, Crossbow
+
+//AXE
+ItemDisplay[NMAG !RW ILVL>14 hax]:
+ItemDisplay[NMAG !RW ILVL>30 9ha]:
+ItemDisplay[NMAG !RW ILVL>60 7ha]:
+ItemDisplay[NMAG !RW ILVL>14 axe]:
+ItemDisplay[NMAG !RW ILVL>30 9ax]:
+ItemDisplay[NMAG !RW ILVL>60 7ax]:
+ItemDisplay[NMAG !RW ILVL>14 2ax]:
+ItemDisplay[NMAG !RW ILVL>30 92a]:
+ItemDisplay[NMAG !RW ILVL>60 72a]:
+ItemDisplay[NMAG !RW ILVL>14 mpi]:
+ItemDisplay[NMAG !RW ILVL>30 9mp]:
+ItemDisplay[NMAG !RW ILVL>60 7mp]:
+ItemDisplay[NMAG !RW ILVL>14 wax]:
+ItemDisplay[NMAG !RW ILVL>30 9wa]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7wa]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7wa]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7wa]:
+//
+ItemDisplay[NMAG !RW ILVL>14 lax]:
+ItemDisplay[NMAG !RW ILVL>30 9la]:
+ItemDisplay[NMAG !RW ILVL>60 7la]:
+ItemDisplay[NMAG !RW ILVL>14 bax]:
+ItemDisplay[NMAG !RW ILVL>30 9ba]:
+ItemDisplay[NMAG !RW ILVL>60 7ba]:
+ItemDisplay[NMAG !RW ILVL>14 btx]:
+ItemDisplay[NMAG !RW ILVL>30 9bt]:
+ItemDisplay[NMAG !RW ILVL>60 7bt]:
+ItemDisplay[NMAG !RW ILVL>14 gax]:
+ItemDisplay[NMAG !RW ILVL>30 9ga]:
+ItemDisplay[NMAG !RW ILVL>60 7ga]:
+ItemDisplay[NMAG !RW ILVL>14 gix]:
+ItemDisplay[NMAG !RW ILVL>39 9gi]:
+ItemDisplay[NMAG !RW ILVL>60 7gi]:
+
+//MACE
+ItemDisplay[NMAG !RW ILVL>14 clb]:
+ItemDisplay[NMAG !RW ILVL>25 9cl]:
+ItemDisplay[NMAG !RW ILVL>60 7cl]:
+ItemDisplay[NMAG !RW ILVL>14 spc]:
+ItemDisplay[NMAG !RW ILVL>25 9sp]:
+ItemDisplay[NMAG !RW ILVL>60 7sp]:
+ItemDisplay[NMAG !RW ILVL>14 mac]:
+ItemDisplay[NMAG !RW ILVL>25 9ma]:
+ItemDisplay[NMAG !RW ILVL>60 7ma]:
+ItemDisplay[NMAG !RW ILVL>14 mst]:
+ItemDisplay[NMAG !RW ILVL>60 7mt]:
+ItemDisplay[NMAG !RW ILVL>25 9mt]:
+ItemDisplay[NMAG !RW ILVL>60 7mf]:
+ItemDisplay[NMAG !RW ILVL<26 SOCK=0 fla]:
+ItemDisplay[NMAG !RW ILVL>40 SOCK=0 fla]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 fla]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 fla]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 fla]:
+//
+ItemDisplay[NMAG !RW ILVL>25 9fl]:
+ItemDisplay[NMAG !RW ILVL>60 7fl]:
+ItemDisplay[NMAG !RW ILVL>14 whm]:
+ItemDisplay[NMAG !RW ILVL>25 9wh]:
+ItemDisplay[NMAG !RW ILVL>60 7wh]:
+ItemDisplay[NMAG !RW ILVL>14 mau]:
+ItemDisplay[NMAG !RW ILVL>25 9m9]:
+ItemDisplay[NMAG !RW ILVL>60 7m7]:
+ItemDisplay[NMAG !RW ILVL>14 gma]:
+ItemDisplay[NMAG !RW ILVL>25 9gm]:
+ItemDisplay[NMAG !RW ILVL>60 7gm]:
+
+//SWORDS
+ItemDisplay[NMAG !RW ILVL<26 SOCK=0 lsd]:
+ItemDisplay[NMAG !RW ILVL>40 SOCK=0 lsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 lsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 lsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 lsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 lsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 lsd]:
+ItemDisplay[NMAG !RW ILVL<26 SOCK=0 bsd]:
+ItemDisplay[NMAG !RW ILVL>40 SOCK=0 bsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 bsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 bsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 bsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 bsd]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 bsd]:
+ItemDisplay[NMAG !RW ILVL<26 SOCK=0 crs]:
+ItemDisplay[NMAG !RW ILVL>40 SOCK=0 crs]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 crs]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 crs]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 crs]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 crs]:
+ItemDisplay[NMAG !RW ILVL>14 ssd]:
+ItemDisplay[NMAG !RW ILVL>25 9ss]:
+ItemDisplay[NMAG !RW ILVL>60 7ss]:
+ItemDisplay[NMAG !RW ILVL>14 scm]:
+ItemDisplay[NMAG !RW ILVL>25 9sm]:
+ItemDisplay[NMAG !RW ILVL>60 7sm]:
+ItemDisplay[NMAG !RW ILVL>14 sbr]:
+ItemDisplay[NMAG !RW ILVL>25 9sb]:
+ItemDisplay[NMAG !RW ILVL>60 7sb]:
+ItemDisplay[NMAG !RW ILVL>14 flc]:
+ItemDisplay[NMAG !RW ILVL>25 9fc]:
+ItemDisplay[NMAG !RW ILVL>60 7fc]:
+ItemDisplay[NMAG !RW ILVL>25 9cr]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=0 7cr]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7cr]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7cr]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=4 7cr]:
+//
+ItemDisplay[NMAG !RW ILVL>25 9bs]:
+ItemDisplay[NMAG !RW ILVL>60 7bs]:
+ItemDisplay[NMAG !RW ILVL>25 9ls]:
+ItemDisplay[NMAG !RW ILVL>60 7ls]:
+ItemDisplay[NMAG !RW ILVL>14 wsd]:
+ItemDisplay[NMAG !RW ILVL>25 9wd]:
+ItemDisplay[NMAG !RW ILVL>60 7wd]:
+ItemDisplay[NMAG !RW ILVL>14 2hs]:
+ItemDisplay[NMAG !RW ILVL>25 92h]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=0 72h]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=1 72h]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=2 72h]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=4 72h]:
+//
+ItemDisplay[NMAG !RW ILVL>14 clm]:
+ItemDisplay[NMAG !RW ILVL>25 9cm]:
+ItemDisplay[NMAG !RW ILVL>60 7cm]:
+ItemDisplay[NMAG !RW ILVL>14 gis]:
+ItemDisplay[NMAG !RW ILVL>25 9gs]:
+ItemDisplay[NMAG !RW ILVL>60 7gs]:
+ItemDisplay[NMAG !RW ILVL>14 bsw]:
+ItemDisplay[NMAG !RW ILVL>25 9b9]:
+ItemDisplay[NMAG !RW ILVL>60 7gs]:
+ItemDisplay[NMAG !RW ILVL>14 bsw]:
+ItemDisplay[NMAG !RW ILVL>25 9b9]:
+ItemDisplay[NMAG !RW ILVL>60 7b7]:
+ItemDisplay[NMAG !RW ILVL>14 flb]:
+ItemDisplay[NMAG !RW ILVL>25 9fb]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=0 7fb]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7fb]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7fb]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7fb]:
+//
+ItemDisplay[NMAG !RW ILVL>14 flb]:
+ItemDisplay[NMAG !RW ILVL>25 9fb]:
+ItemDisplay[NMAG !RW ILVL>60 7fb]:
+ItemDisplay[NMAG !RW ILVL>14 gsd]:
+ItemDisplay[NMAG !RW ILVL>25 9gd]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7gd]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7gd]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7gd]:
+//
+
+//Dagger
+ItemDisplay[NMAG !RW ILVL>14 dgr]:
+ItemDisplay[NMAG !RW ILVL>25 9dg]:
+ItemDisplay[NMAG !RW ILVL>60 7dg]:
+ItemDisplay[NMAG !RW ILVL>14 dir]:
+ItemDisplay[NMAG !RW ILVL>25 9di]:
+ItemDisplay[NMAG !RW ILVL>60 7di]:
+ItemDisplay[NMAG !RW ILVL>14 kri]:
+ItemDisplay[NMAG !RW ILVL>25 9kr]:
+ItemDisplay[NMAG !RW ILVL>60 7kr]:
+ItemDisplay[NMAG !RW ILVL>14 bld]:
+ItemDisplay[NMAG !RW ILVL>25 9bl]:
+ItemDisplay[NMAG !RW ILVL>60 7bl]:
+
+//Throwing
+ItemDisplay[NMAG !RW ILVL>14 tkf]:
+ItemDisplay[NMAG !RW ILVL>25 9tk]:
+ItemDisplay[NMAG !RW ILVL>60 7tk]:
+ItemDisplay[NMAG !RW ILVL>14 tax]:
+ItemDisplay[NMAG !RW ILVL>25 9ta]:
+ItemDisplay[NMAG !RW ILVL>60 7ta]:
+ItemDisplay[NMAG !RW ILVL>14 bkf]:
+ItemDisplay[NMAG !RW ILVL>25 9bk]:
+ItemDisplay[NMAG !RW ILVL>60 7bk]:
+ItemDisplay[NMAG !RW ILVL>14 bal]:
+ItemDisplay[NMAG !RW ILVL>25 9b8]:
+ItemDisplay[NMAG !RW ILVL>60 7b8]:
+
+//Javelin
+ItemDisplay[NMAG !RW ILVL>14 jav]:
+ItemDisplay[NMAG !RW ILVL>25 9ja]:
+ItemDisplay[NMAG !RW ILVL>60 7ja]:
+ItemDisplay[NMAG !RW ILVL>14 pil]:
+ItemDisplay[NMAG !RW ILVL>25 9pi]:
+ItemDisplay[NMAG !RW ILVL>60 7pi]:
+ItemDisplay[NMAG !RW ILVL>14 ssp]:
+ItemDisplay[NMAG !RW ILVL>25 9s9]:
+ItemDisplay[NMAG !RW ILVL>60 7s7]:
+ItemDisplay[NMAG !RW ILVL>14 glv]:
+ItemDisplay[NMAG !RW ILVL>25 9gl]:
+ItemDisplay[NMAG !RW ILVL>60 7gl]:
+ItemDisplay[NMAG !RW ILVL>14 tsp]:
+ItemDisplay[NMAG !RW ILVL>25 9ts]:
+ItemDisplay[NMAG !RW ILVL>60 7ts]:
+
+//Spear
+ItemDisplay[NMAG !RW ILVL>14 spr]:
+ItemDisplay[NMAG !RW ILVL>25 9sr]:
+ItemDisplay[NMAG !RW ILVL>25 9tr]:
+ItemDisplay[NMAG !RW ILVL>60 7sr]:
+ItemDisplay[NMAG !RW ILVL>14 tri]:
+ItemDisplay[NMAG !RW ILVL>60 7tr]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=0 brn]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 brn]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 brn]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 brn]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 brn]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 brn]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=0 9br]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=1 9br]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=2 9br]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=3 9br]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=5 9br]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=6 9br]:
+ItemDisplay[NMAG !RW ILVL>60 7br]:
+ItemDisplay[NMAG !RW ILVL>14 spt]:
+ItemDisplay[NMAG !RW ILVL>25 9st]:
+ItemDisplay[NMAG !RW ILVL>60 7st]:
+ItemDisplay[NMAG !RW ILVL>14 pik]:
+ItemDisplay[NMAG !RW ILVL>25 9p9]:
+
+//Polearm
+ItemDisplay[NMAG !RW ILVL>14 bar]:
+ItemDisplay[NMAG !RW ILVL>25 9b7]:
+ItemDisplay[NMAG !RW ILVL>60 7o7]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=0 vou]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 vou]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 vou]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 vou]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 vou]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 vou]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=0 9vo]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=1 9vo]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=2 9vo]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=3 9vo]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=5 9vo]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=6 9vo]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7vo]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7vo]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7vo]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=5 7vo]: 
+ItemDisplay[NMAG !RW ILVL>60 SOCK=6 7vo]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=0 scy]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 scy]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 scy]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 scy]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 scy]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 scy]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=0 9s8]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=1 9s8]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=2 9s8]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=3 9s8]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=5 9s8]:
+ItemDisplay[NMAG !RW ILVL>25 SOCK=6 9s8]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 7s8]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 7s8]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 7s8]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 7s8]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 7s8]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=0 pax]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 pax]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 pax]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 pax]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 pax]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 pax]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=0 9pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 9pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 9pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 9pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 9pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 9pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 7pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 7pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 7pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 7pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 7pa]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=0 hal]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 hal]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 hal]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 hal]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 hal]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 hal]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=0 9h9]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 9h9]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 9h9]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 9h9]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 9h9]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 9h9]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 7h7]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 7h7]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 7h7]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 7h7]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 7h7]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=0 wsc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 wsc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 wsc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 wsc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 wsc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 wsc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=0 9wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 9wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 9wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 9wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 9wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 9wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=1 7wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=2 7wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=3 7wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=5 7wc]:
+ItemDisplay[NMAG !RW ILVL>14 SOCK=6 7wc]:
+
+//Bow
+ItemDisplay[NMAG !RW ILVL>14 sbw]:
+ItemDisplay[NMAG !RW ILVL>14 8sb]:
+ItemDisplay[NMAG !RW ILVL>14 6sb]:
+ItemDisplay[NMAG !RW ILVL>14 hbw]:
+ItemDisplay[NMAG !RW ILVL>14 8hb]:
+ItemDisplay[NMAG !RW ILVL>14 6hb]:
+ItemDisplay[NMAG !RW ILVL>14 lbw]:
+ItemDisplay[NMAG !RW ILVL>14 8lb]:
+ItemDisplay[NMAG !RW ILVL>40 6lb]:
+ItemDisplay[NMAG !RW ILVL>14 cbw]:
+ItemDisplay[NMAG !RW ILVL>14 8cb]:
+ItemDisplay[NMAG !RW ILVL>30 6cb]:
+ItemDisplay[NMAG !RW ILVL>14 sbb]:
+ItemDisplay[NMAG !RW ILVL>14 8s8]:
+ItemDisplay[NMAG !RW ILVL>14 6s7]:
+ItemDisplay[NMAG !RW ILVL>14 lbb]:
+ItemDisplay[NMAG !RW ILVL>14 8l8]:
+ItemDisplay[NMAG !RW ILVL>50 6l7]:
+ItemDisplay[NMAG !RW ILVL>14 swb]:
+ItemDisplay[NMAG !RW ILVL>14 8sw]:
+ItemDisplay[NMAG !RW ILVL>14 6we]:
+ItemDisplay[NMAG !RW ILVL>14 lwb]:
+ItemDisplay[NMAG !RW ILVL>14 8lw]:
+ItemDisplay[NMAG !RW ILVL>14 6lw]:
+ItemDisplay[NMAG !RW ILVL>50 6sw]:
+
+//Crossbow
+ItemDisplay[NMAG !RW ILVL>14 lxb]:
+ItemDisplay[NMAG !RW ILVL>25 8lx]:
+ItemDisplay[NMAG !RW ILVL>60 6lx]:
+ItemDisplay[NMAG !RW ILVL>14 mxb]:
+ItemDisplay[NMAG !RW ILVL>25 8mx]:
+ItemDisplay[NMAG !RW ILVL>60 6mx]:
+ItemDisplay[NMAG !RW ILVL>14 hxb]:
+ItemDisplay[NMAG !RW ILVL>25 8hx]:
+ItemDisplay[NMAG !RW ILVL>60 6hx]:
+ItemDisplay[NMAG !RW ILVL>14 rxb]:
+ItemDisplay[NMAG !RW ILVL>25 8rx]:
+ItemDisplay[NMAG !RW ILVL>60 6rx]:
+//
+//103-106 str helms for archon plate builds
+ItemDisplay[NMAG SOCK=3 !ETH usk]: %NAME% [%SOCKETS%]
+ItemDisplay[NMAG SOCK=3 !ETH uh9]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
+//None of the Above
+ItemDisplay[NMAG !RW cap]:
+ItemDisplay[NMAG !RW xap]:
+ItemDisplay[NMAG !RW uap]:
+ItemDisplay[NMAG !RW skp]:
+ItemDisplay[NMAG !RW xkp]:
+ItemDisplay[NMAG !RW ukp]:
+ItemDisplay[NMAG !RW hlm]:
+ItemDisplay[NMAG !RW xlm]:
+ItemDisplay[NMAG !RW ulm]:
+ItemDisplay[NMAG !RW fhl]:
+ItemDisplay[NMAG !RW xhl]:
+ItemDisplay[NMAG !RW uhl]:
+ItemDisplay[NMAG !RW ghm]:
+ItemDisplay[NMAG !RW xhm]:
+ItemDisplay[NMAG !RW uhm]:
+ItemDisplay[NMAG !RW crn]:
+ItemDisplay[NMAG !RW xrn]:
+ItemDisplay[NMAG !RW urn]:
+ItemDisplay[NMAG !RW msk]:
+ItemDisplay[NMAG !RW xsk]:
+ItemDisplay[NMAG !RW usk]:
+ItemDisplay[NMAG !RW bhm]:
+ItemDisplay[NMAG !RW xh9]:
+ItemDisplay[NMAG !RW uh9]:
+
+//Body Armor
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 qui]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xui]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 lea]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 hla]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 stu]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 rng]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 scl]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 chn]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 brs]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 spl]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 plt]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 fld]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 gth]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 ful]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 aar]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 ltp]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xea]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xla]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xtu]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xng]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xcl]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xhn]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xrs]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xpl]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xlt]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xld]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xth]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xul]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xar]:
+//
+ItemDisplay[NMAG !RW ILVL>44 qui]:
+ItemDisplay[NMAG !RW ILVL>44 xui]:
+ItemDisplay[NMAG !RW ILVL>44 lea]:
+ItemDisplay[NMAG !RW ILVL>44 hla]:
+ItemDisplay[NMAG !RW ILVL>44 stu]:
+ItemDisplay[NMAG !RW ILVL>44 rng]:
+ItemDisplay[NMAG !RW ILVL>44 scl]:
+ItemDisplay[NMAG !RW ILVL>44 chn]:
+ItemDisplay[NMAG !RW ILVL>44 brs]:
+ItemDisplay[NMAG !RW ILVL>44 spl]:
+ItemDisplay[NMAG !RW ILVL>44 plt]:
+ItemDisplay[NMAG !RW ILVL>44 fld]:
+ItemDisplay[NMAG !RW ILVL>44 gth]:
+ItemDisplay[NMAG !RW ILVL>44 ful]:
+ItemDisplay[NMAG !RW ILVL>44 aar]:
+ItemDisplay[NMAG !RW ILVL>44 ltp]:
+ItemDisplay[NMAG !RW ILVL>44 xea]:
+ItemDisplay[NMAG !RW ILVL>44 xla]:
+ItemDisplay[NMAG !RW ILVL>44 xtu]:
+ItemDisplay[NMAG !RW ILVL>44 xng]:
+ItemDisplay[NMAG !RW ILVL>44 xcl]:
+ItemDisplay[NMAG !RW ILVL>44 xhn]:
+ItemDisplay[NMAG !RW ILVL>44 xrs]:
+ItemDisplay[NMAG !RW ILVL>44 xpl]:
+ItemDisplay[NMAG !RW ILVL>44 xlt]:
+ItemDisplay[NMAG !RW ILVL>44 xld]:
+ItemDisplay[NMAG !RW ILVL>44 xth]:
+ItemDisplay[NMAG !RW ILVL>44 xul]:
+ItemDisplay[NMAG !RW ILVL>44 xar]:
+//Shield
+ItemDisplay[NMAG ETH !RW SOCK=3 ush]: %DGREEN% ETH %NAME% %YELLOW%[%SOCKETS%]
+ItemDisplay[NMAG ETH !RW SOCK=3 urg]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[NMAG ETH !RW SOCK=0 ush]: %DGREEN% ETH %NAME% %YELLOW%[%SOCKETS%]
+ItemDisplay[NMAG !ETH !RW SOCK=3 ush]: %GRAY%%NAME% [%SOCKETS%]
+ItemDisplay[NMAG !ETH !RW SOCK=2 ush]: %GRAY%%NAME% [%SOCKETS%]
+ItemDisplay[NMAG !ETH !RW SOCK=3 urg]: %GRAY%%NAME% [%SOCKETS%]
+ItemDisplay[NMAG !ETH !RW SOCK=2 urg]: %GRAY%%NAME% [%SOCKETS%]
+ItemDisplay[NMAG !ETH !RW SOCK=0 ush]: %GRAY%%NAME%
+ItemDisplay[NMAG !ETH !RW SOCK=0 urg]: %GRAY%%NAME%
+ItemDisplay[NMAG SOCK=1 urg]: 
+ItemDisplay[NMAG SOCK=1 ush]:
+ItemDisplay[NMAG SOCK=1 uit]:
+ItemDisplay[NMAG SOCK=2 uit]:
+//
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 buc]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xuc]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 uuc]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 sml]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xml]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 uml]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 lrg]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xrg]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 kit]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xit]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 tow]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xow]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 uow]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 gts]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xts]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 uts]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 bsh]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xsh]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 spk]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 xpk]:
+ItemDisplay[NMAG !RW SOCK<2 ILVL<45 upk]:
+//
+ItemDisplay[NMAG !RW ILVL>44 buc]:
+ItemDisplay[NMAG !RW ILVL>44 xuc]:
+ItemDisplay[NMAG !RW ILVL>44 uuc]:
+ItemDisplay[NMAG !RW ILVL>44 sml]:
+ItemDisplay[NMAG !RW ILVL>44 xml]:
+ItemDisplay[NMAG !RW ILVL>44 uml]:
+ItemDisplay[NMAG !RW ILVL>44 lrg]:
+ItemDisplay[NMAG !RW ILVL>44 xrg]:
+ItemDisplay[NMAG !RW ILVL>44 kit]:
+ItemDisplay[NMAG !RW ILVL>44 tow]:
+ItemDisplay[NMAG !RW ILVL>44 xow]:
+ItemDisplay[NMAG !RW ILVL>44 uow]:
+ItemDisplay[NMAG !RW ILVL>44 gts]:
+ItemDisplay[NMAG !RW ILVL>44 xts]:
+ItemDisplay[NMAG !RW ILVL>44 uts]:
+ItemDisplay[NMAG !RW ILVL>44 bsh]:
+ItemDisplay[NMAG !RW ILVL>44 xsh]:
+ItemDisplay[NMAG !RW ILVL>44 spk]:
+ItemDisplay[NMAG !RW ILVL>45 xpk]:
+ItemDisplay[NMAG !RW ILVL>44 upk]:
+//
+//Gloves, Boots, Belts, Circlets -> (Disable to Imbue)
+ItemDisplay[NMAG EQ4 !RW ILVL>14]:
+ItemDisplay[NMAG EQ5 !RW ILVL>14]:
+ItemDisplay[NMAG EQ6 !RW ILVL>14]:
+ItemDisplay[NMAG ci0 !RW ILVL>14]:
+ItemDisplay[NMAG ci1 !RW ILVL>14]:
+
+//Tiara Diadem Imbue Charsi
+//tiara
+ItemDisplay[NMAG ci2 !ETH SOCK=0]: %NAME%
+//diadem
+ItemDisplay[NMAG ci3 !ETH SOCK=0]: %NAME%
+ItemDisplay[NMAG ci3 !ETH SOCK=3]: %NAME%[%SOCKETS%]
+ItemDisplay[NMAG ci3 ETH SOCK=0]: %NAME%
+ItemDisplay[NMAG ci3 ETH SOCK=3]: %NAME%[%SOCKETS%]
+//
+//Class Items (Paladin Shields, Assassin Claws, Amazon Weapons, Necromancer Heads
+//Druid Pelts
+ItemDisplay[NMAG !RW CL1 SOCK=1]:
+ItemDisplay[NMAG !RW CL1 ETH]:
+//Barbarian Helms
+ItemDisplay[NMAG CL2 !RW SOCK=1]:
+ItemDisplay[NMAG CL2 !RW ETH]:
+ItemDisplay[NMAG !RW CL2 SOCK>1 !ETH]: 
+//Paladin Shields
+ItemDisplay[NMAG !RW CL3 (SOCK=1 OR RES<20) ILVL>55]:
+//Amazon Weapons
+ItemDisplay[NMAG !RW am1 ILVL>26]:
+ItemDisplay[NMAG !RW am2 ILVL>26]:
+ItemDisplay[NMAG !RW am3 ILVL>26]:
+ItemDisplay[NMAG !RW am4 ILVL>26]:
+ItemDisplay[NMAG !RW am5 CLVL>60]:
+ItemDisplay[NMAG !RW am6 ILVL>59]:
+ItemDisplay[NMAG !RW am7 ILVL>59]:
+ItemDisplay[NMAG !RW am8 ILVL>59]:
+ItemDisplay[NMAG !RW am9 ILVL>59]:
+ItemDisplay[NMAG !RW ama ILVL>59]:
+ItemDisplay[NMAG !RW amf ILVL>59]:
+ItemDisplay[NMAG !RW amd ILVL>59]:
+ItemDisplay[NMAG !RW amb ILVL>59]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=1 amc]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=2 amc]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=3 amc]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=5 amc]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=6 amc]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=1 ame]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=2 ame]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=3 ame]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=5 ame]:
+ItemDisplay[NMAG !RW ILVL>59 SOCK=6 ame]:
+//
+
+//ItemDisplay[NMAG !RW ame ILVL>59]:
+//Necromancer Shrunken Heads
+ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL>24]:
+ItemDisplay[NMAG !RW CL4 ETH ILVL>24]:
+ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL<25]: %NAME% %[SOCKETS]%
+ItemDisplay[NMAG !RW CL4 SOCK=2 !ETH ILVL>24]: %NAME% %[SOCKETS]%
+//
+//Sorceress Orbs
+ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL>24]:
+ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL<25]: %NAME% %[SOCKETS]%
+ItemDisplay[NMAG !RW CL4 SOCK>1 ILVL>24]: %NAME% %[SOCKETS]%
+//
+
+//Inferior Items
+ItemDisplay[INF ILVL<10 !RW !leg]: %NAME%
+ItemDisplay[INF !RW !leg]:
+
 //Catchall
+ItemDisplay[MAG !ID uhg]: 
+//ItemDisplay[NMAG lsd]:
+ItemDisplay[NMAG 7p7]:
+//ItemDisplay[NMAG CL1 CLVL>90]: 
+//ItemDisplay[NMAG CL3 CLVL>90]:
+//ItemDisplay[NMAG CL5]:
+ItemDisplay[NMAG SOCK=1]:
+ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[ETH SOCK=0]: ETH %NAME%
+ItemDisplay[SOCK>0]: %NAME% [%SOCKETS%]
+//ItemDisplay[NMAG ILVL>74]:
+//ItemDisplay[]: %NAME% [%CODE%]
+
 ItemDisplay[leg SOCK>0]: %NAME% %TAN%[%SOCKETS%]
 ItemDisplay[leg]: %NAME%
 ItemDisplay[CLSK6>0 AND (SK262>2 OR SK266>2 OR SK271>2 OR SK272>2 OR SK277>2 OR SK267>2 OR SK268>2 OR SK273>2 OR SK278>2 OR SK279>2 OR SK265>2 OR SK269>2 OR SK274>2 OR SK275>2 OR SK280>2)]: %ORANGE%%NAME%
