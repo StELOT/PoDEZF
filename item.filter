@@ -1,3 +1,6 @@
+ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[ETH SOCK=0]: ETH %NAME%
+ItemDisplay[SOCK>0]: %NAME% [%SOCKETS%]
 ItemDisplay[GOLD<4000]:
 //Health & Mana Potions
 ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
