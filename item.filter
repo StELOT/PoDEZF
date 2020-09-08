@@ -135,6 +135,10 @@ ItemDisplay[MAG WP8 !ID ILVL>25]:
 ItemDisplay[MAG WP9 !ID ILVL>25]:
 ItemDisplay[MAG WP10 !ID ILVL>25]:
 //
+//Helms
+ItemDisplay[MAG (cap OR skp OR hlm OR fhl OR msk OR bhm OR ghm OR crn OR xap OR xkp OR xlm OR xhl OR xsk OR xh9 OR xhm OR xrn) !ID ILVL>54]:
+//Armors
+ItemDisplay[MAG !ELT EQ2 !ID ILVL>54]:
 //Shields - Hidden !monarch !troll nest
 ItemDisplay[MAG EQ3 !ID !uit !ush ILVL>60]:
 //
