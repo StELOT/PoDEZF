@@ -1,6 +1,3 @@
-ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
-ItemDisplay[ETH SOCK=0]: ETH %NAME%
-ItemDisplay[SOCK>0]: %NAME% [%SOCKETS%]
 ItemDisplay[GOLD<4000]:
 //Health & Mana Potions
 ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
@@ -717,6 +714,14 @@ ItemDisplay[NMAG CL2 !RW ETH]:
 ItemDisplay[NMAG !RW CL2 SOCK>1 !ETH]: 
 //Paladin Shields
 ItemDisplay[NMAG !RW CL3 (SOCK=1 OR RES<20) ILVL>55]:
+//Assassin Claws
+ItemDisplay[NMAG ktr ILVL>26]:
+ItemDisplay[NMAG !RW !RW wrb ILVL>26]:
+ItemDisplay[NMAG !RW axf ILVL>26]:
+ItemDisplay[NMAG !RW ces ILVL>26]:
+ItemDisplay[NMAG !RW clw ILVL>26]:
+ItemDisplay[NMAG !RW btl ILVL>26]:
+ItemDisplay[NMAG !RW skr ILVL>26]:
 //Amazon Weapons
 ItemDisplay[NMAG !RW am1 ILVL>26]:
 ItemDisplay[NMAG !RW am2 ILVL>26]:
@@ -783,4 +788,7 @@ ItemDisplay[(crs OR bsd OR lsd) (SOCK>0 AND SOCK<4) (ETH OR !ETH)]:
 ItemDisplay[(WP1 OR WP2 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10 OR EQ4 OR EQ5 OR EQ6 OR EQ7) EXC NMAG (ETH OR !ETH)]:
 ItemDisplay[(WEAPON OR ARMOR) (NORM OR EXC OR ELT) INF (ETH OR !ETH)]:
 ItemDisplay[NMAG SOCK=1]:
+ItemDisplay[ETH SOCK>0 !9ar !9wb !9xf !9cs !9lw !9tw !9qr !7ar !7wb !7xf !7cs !7lw !7tw !7qr]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[ETH SOCK=0 !9ar !9wb !9xf !9cs !9lw !9tw !9qr !7ar !7wb !7xf !7cs !7lw !7tw !7qr]: ETH %NAME%
+ItemDisplay[SOCK>0 !9ar !9wb !9xf !9cs !9lw !9tw !9qr !7ar !7wb !7xf !7cs !7lw !7tw !7qr]: %NAME% [%SOCKETS%]
 //
