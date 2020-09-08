@@ -180,13 +180,16 @@ ItemDisplay[MAG ulg !ID ILVL>60]:
 ItemDisplay[MAG utg !ID ILVL>60]:
 ItemDisplay[MAG xtg !ID ILVL>60]:
 
+//Normal Assassin Claws
+ItemDisplay[MAG (ktr OR wrb OR axf OR ces OR clw OR btl OR skr) !ID ILVL>60]:
+
 //Normal
 //Vendor Items
-ItemDisplay[NMAG WP11]: 
-ItemDisplay[NMAG WP12]:
-ItemDisplay[NMAG WP13]: 
-ItemDisplay[NMAG CL4]: 
-ItemDisplay[NMAG CL6]: 
+//ItemDisplay[NMAG WP11]: 
+//ItemDisplay[NMAG WP12]:
+//ItemDisplay[NMAG WP13]: 
+//ItemDisplay[NMAG CL4]: 
+//ItemDisplay[NMAG CL6]: 
 //None of the Above
 //Weapons: Axe, Mace, Sword, Dagger, Throwing Weapon, Javelin, Spear, Polearm, Bow, Crossbow
 
