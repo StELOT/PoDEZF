@@ -764,13 +764,8 @@ ItemDisplay[NMAG 7p7]:
 //ItemDisplay[NMAG CL1 CLVL>90]: 
 //ItemDisplay[NMAG CL3 CLVL>90]:
 //ItemDisplay[NMAG CL5]:
-ItemDisplay[NMAG SOCK=1]:
-ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
-ItemDisplay[ETH SOCK=0]: ETH %NAME%
-ItemDisplay[SOCK>0]: %NAME% [%SOCKETS%]
 //ItemDisplay[NMAG ILVL>74]:
 //ItemDisplay[]: %NAME% [%CODE%]
-
 ItemDisplay[leg SOCK>0]: %NAME% %TAN%[%SOCKETS%]
 ItemDisplay[leg]: %NAME%
 ItemDisplay[(SOCK<1 OR SOCK>2) CLSK6>0 AND (SK262>2 OR SK266>2 OR SK271>2 OR SK272>2 OR SK277>2 OR SK267>2 OR SK268>2 OR SK273>2 OR SK278>2 OR SK279>2 OR SK265>2 OR SK269>2 OR SK274>2 OR SK275>2 OR SK280>2)]: %ORANGE%%NAME%
@@ -784,4 +779,8 @@ ItemDisplay[(WP1 OR WP2 OR ssd OR scm OR sbr OR flc OR wsd OR 2hs OR clm OR gis 
 ItemDisplay[(crs OR bsd OR lsd) (SOCK>0 AND SOCK<4) (ETH OR !ETH)]:
 ItemDisplay[(WP1 OR WP2 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10 OR EQ4 OR EQ5 OR EQ6 OR EQ7) EXC NMAG (ETH OR !ETH)]:
 ItemDisplay[(WEAPON OR ARMOR) (NORM OR EXC OR ELT) INF (ETH OR !ETH)]:
+ItemDisplay[NMAG SOCK=1]:
+ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[ETH SOCK=0]: ETH %NAME%
+ItemDisplay[SOCK>0]: %NAME% [%SOCKETS%]
 //
