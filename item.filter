@@ -2,6 +2,7 @@ ItemDisplay[GOLD<4000]:
 //Health & Mana Potions
 ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
 ItemDisplay[hp4 CLVL<65]: %RED%!%WHITE%H
+ItemDisplay[hp4 CLVL>64]:
 ItemDisplay[hp5]: %RED%!%WHITE%H+
 ItemDisplay[mp4]: %BLUE%!%WHITE%M
 ItemDisplay[mp5]: %BLUE%!%WHITE%M+
