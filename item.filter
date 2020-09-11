@@ -104,7 +104,8 @@ ItemDisplay[glb]: %ORANGE%Sapphire
 ItemDisplay[gly]: %ORANGE%Topaz
 ItemDisplay[skl]: %ORANGE%Skull
 //PERFECT (Tier5): (Uppercase display with orange crafting and tier indicator)
-ItemDisplay[gpv]: %ORANGE%PERFECT AMETHYST
+ItemDisplay[gpv]: %ORANGE%PERFECT AM
+YST
 ItemDisplay[gpw]: %ORANGE%PERFECT DIAMOND
 ItemDisplay[gpg]: %ORANGE%PERFECT EMERALD
 ItemDisplay[gpr]: %ORANGE%PERFECT RUBY
@@ -807,4 +808,6 @@ ItemDisplay[(NMAG OR MAG OR RARE) SOCK>2 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw
 ItemDisplay[(NMAG OR MAG OR RARE) SOCK=0 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) ETH (ID OR !ID)]: ETH %NAME%
 ItemDisplay[(NMAG OR MAG OR RARE) SOCK>2 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) (ID OR !ID)]: %NAME% [%SOCKETS%]
 ItemDisplay[(NMAG OR MAG OR RARE) SOCK=0 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) (ID OR !ID)]: %NAME%
+ItemDisplay[SOCK>1 (WEAPON OR ARMOR) ETH]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[(WEAPON OR ARMOR) ETH]: ETH %NAME%
 //
