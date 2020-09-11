@@ -803,7 +803,8 @@ ItemDisplay[(crs OR bsd OR lsd) (SOCK>0 AND SOCK<4) (ETH OR !ETH)]:
 ItemDisplay[(WP1 OR WP2 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10 OR EQ4 OR EQ5 OR EQ6 OR EQ7) EXC NMAG (ETH OR !ETH)]:
 ItemDisplay[(WEAPON OR ARMOR) (NORM OR EXC OR ELT) INF (ETH OR !ETH)]:
 ItemDisplay[NMAG SOCK=1]:
-ItemDisplay[ETH SOCK>0 !9ar !9wb !9xf !9cs !9lw !9tw !9qr !7ar !7wb !7xf !7cs !7lw !7tw !7qr]: ETH %NAME% [%SOCKETS%]
-ItemDisplay[ETH SOCK=0 !9ar !9wb !9xf !9cs !9lw !9tw !9qr !7ar !7wb !7xf !7cs !7lw !7tw !7qr]: ETH %NAME%
-ItemDisplay[SOCK>0 !9ar !9wb !9xf !9cs !9lw !9tw !9qr !7ar !7wb !7xf !7cs !7lw !7tw !7qr]: %NAME% [%SOCKETS%]
+ItemDisplay[(NMAG OR MAG OR RARE) SOCK>2 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) ETH (ID OR !ID)]: ETH %NAME% [%SOCKETS%]
+ItemDisplay[(NMAG OR MAG OR RARE) SOCK=0 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) ETH (ID OR !ID)]: ETH %NAME%
+ItemDisplay[(NMAG OR MAG OR RARE) SOCK>2 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) (ID OR !ID)]: %NAME% [%SOCKETS%]
+ItemDisplay[(NMAG OR MAG OR RARE) SOCK=0 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) (ID OR !ID)]: %NAME%
 //
