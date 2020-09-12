@@ -553,7 +553,7 @@ ItemDisplay[NMAG !RW ILVL>60 6rx]:
 //
 //103-106 str helms for archon plate builds
 ItemDisplay[NMAG SOCK=3 !ETH usk]: %NAME% [%SOCKETS%]
-ItemDisplay[NMAG SOCK=3 !ETH uh9]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
+ItemDisplay[NMAG SOCK=3 !ETH uh9]: %DGREEN%%NAME% %YELLOW% [%SOCKETS%]
 //None of the Above
 ItemDisplay[NMAG !RW cap]:
 ItemDisplay[NMAG !RW xap]:
@@ -710,9 +710,9 @@ ItemDisplay[NMAG ci1 !RW ILVL>14]:
 ItemDisplay[NMAG ci2 !ETH SOCK=0]: %NAME%
 //diadem
 ItemDisplay[NMAG ci3 !ETH SOCK=0]: %NAME%
-ItemDisplay[NMAG ci3 !ETH SOCK=3]: %NAME%[%SOCKETS%]
+ItemDisplay[NMAG ci3 !ETH SOCK=3]: %NAME% [%SOCKETS%]
 ItemDisplay[NMAG ci3 ETH SOCK=0]: %NAME%
-ItemDisplay[NMAG ci3 ETH SOCK=3]: %NAME%[%SOCKETS%]
+ItemDisplay[NMAG ci3 ETH SOCK=3]: %NAME% [%SOCKETS%]
 //
 //Class Items (Paladin Shields, Assassin Claws, Amazon Weapons, Necromancer Heads
 //Druid Pelts
@@ -762,13 +762,13 @@ ItemDisplay[NMAG !RW ILVL>59 SOCK=6 ame]:
 //Necromancer Shrunken Heads
 ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL>24]:
 ItemDisplay[NMAG !RW CL4 ETH ILVL>24]:
-ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL<25]: %NAME% %[SOCKETS]%
-ItemDisplay[NMAG !RW CL4 SOCK=2 !ETH ILVL>24]: %NAME% %[SOCKETS]%
+ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL<25]: %NAME% [%SOCKETS%]
+ItemDisplay[NMAG !RW CL4 SOCK=2 !ETH ILVL>24]: %NAME% [%SOCKETS%]
 //
 //Sorceress Orbs
 ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL>24]:
-ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL<25]: %NAME% %[SOCKETS]%
-ItemDisplay[NMAG !RW CL4 SOCK>1 ILVL>24]: %NAME% %[SOCKETS]%
+ItemDisplay[NMAG !RW CL4 SOCK=1 ILVL<25]: %NAME% [%SOCKETS%]
+ItemDisplay[NMAG !RW CL4 SOCK>1 ILVL>24]: %NAME% [%SOCKETS%]
 //
 
 //Inferior Items
@@ -784,7 +784,7 @@ ItemDisplay[NMAG 7p7]:
 //ItemDisplay[NMAG CL5]:
 //ItemDisplay[NMAG ILVL>74]:
 //ItemDisplay[]: %NAME% [%CODE%]
-ItemDisplay[leg SOCK>0]: %NAME% %TAN%[%SOCKETS%]
+ItemDisplay[leg SOCK>0]: %NAME% %TAN% [%SOCKETS%]
 ItemDisplay[leg]: %NAME%
 ItemDisplay[MAG (cm1 OR cm2 OR cm3 OR jew OR amu) !ID]: %ORANGE% @-@ %NAME% @-@ [%ILVL%]
 ItemDisplay[RARE (cm1 OR cm2 OR cm3 OR jew OR amu) !ID]: %YELLOW% @-@ %NAME% @-@ [%ILVL%]
@@ -805,9 +805,11 @@ ItemDisplay[(WP1 OR WP2 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10
 ItemDisplay[(WEAPON OR ARMOR) (NORM OR EXC OR ELT) INF (ETH OR !ETH)]:
 ItemDisplay[NMAG SOCK=1]:
 ItemDisplay[(NMAG OR MAG OR RARE) SOCK>2 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) ETH (ID OR !ID)]: ETH %NAME% [%SOCKETS%]
-ItemDisplay[(NMAG OR MAG OR RARE) SOCK=0 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) ETH (ID OR !ID)]: ETH %NAME%
+ItemDisplay[(NMAG OR MAG OR RARE) SOCK<1 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) ETH (ID OR !ID)]: ETH %NAME%
 ItemDisplay[(NMAG OR MAG OR RARE) SOCK>2 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) (ID OR !ID)]: %NAME% [%SOCKETS%]
-ItemDisplay[(NMAG OR MAG OR RARE) SOCK=0 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) (ID OR !ID)]: %NAME%
+ItemDisplay[(NMAG OR MAG OR RARE) SOCK<1 (9ar OR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) (ID OR !ID)]: %NAME%
 ItemDisplay[SOCK>1 (WEAPON OR ARMOR) ETH]: ETH %NAME% [%SOCKETS%]
-ItemDisplay[SOCK=0 (WEAPON OR ARMOR) ETH]: ETH %NAME%
+ItemDisplay[SOCK<1 (WEAPON OR ARMOR) ETH]: ETH %NAME%
+ItemDisplay[SOCK>1 (WEAPON OR ARMOR)]: %NAME% [%SOCKETS%]
+ItemDisplay[SOCK<1 (WEAPON OR ARMOR)]: %NAME%
 //
