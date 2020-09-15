@@ -216,8 +216,8 @@ ItemDisplay[NMAG !RW ILVL>60 7mp]:
 ItemDisplay[NMAG !RW ILVL>14 wax]:
 ItemDisplay[NMAG !RW ILVL>30 9wa]:
 ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7wa]:
-ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7wa]:
-ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7wa]:
+//ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7wa]:
+//ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7wa]:
 //
 ItemDisplay[NMAG !RW ILVL>14 lax]:
 ItemDisplay[NMAG !RW ILVL>30 9la]:
@@ -259,7 +259,7 @@ ItemDisplay[NMAG !RW ILVL>25 9fl]:
 ItemDisplay[NMAG !RW ILVL>60 7fl]:
 ItemDisplay[NMAG !RW ILVL>14 whm]:
 ItemDisplay[NMAG !RW ILVL>25 9wh]:
-ItemDisplay[NMAG !RW ILVL>60 7wh]:
+//ItemDisplay[NMAG !RW ILVL>60 7wh]:
 ItemDisplay[NMAG !RW ILVL>14 mau]:
 ItemDisplay[NMAG !RW ILVL>25 9m9]:
 ItemDisplay[NMAG !RW ILVL>60 7m7]:
@@ -334,14 +334,14 @@ ItemDisplay[NMAG !RW ILVL>25 9b9]:
 ItemDisplay[NMAG !RW ILVL>60 7b7]:
 ItemDisplay[NMAG !RW ILVL>14 flb]:
 ItemDisplay[NMAG !RW ILVL>25 9fb]:
-ItemDisplay[NMAG !RW ILVL>60 SOCK=0 7fb]:
+//ItemDisplay[NMAG !RW ILVL>60 SOCK=0 7fb]:
 ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7fb]:
 ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7fb]:
 ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7fb]:
 //
 ItemDisplay[NMAG !RW ILVL>14 flb]:
 ItemDisplay[NMAG !RW ILVL>25 9fb]:
-ItemDisplay[NMAG !RW ILVL>60 7fb]:
+//ItemDisplay[NMAG !RW ILVL>60 7fb]:
 ItemDisplay[NMAG !RW ILVL>14 gsd]:
 ItemDisplay[NMAG !RW ILVL>25 9gd]:
 ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7gd]:
@@ -358,7 +358,7 @@ ItemDisplay[NMAG !RW ILVL>25 9di]:
 ItemDisplay[NMAG !RW ILVL>60 7di]:
 ItemDisplay[NMAG !RW ILVL>14 kri]:
 ItemDisplay[NMAG !RW ILVL>25 9kr]:
-ItemDisplay[NMAG !RW ILVL>60 7kr]:
+//ItemDisplay[NMAG !RW ILVL>60 7kr]:
 ItemDisplay[NMAG !RW ILVL>14 bld]:
 ItemDisplay[NMAG !RW ILVL>25 9bl]:
 ItemDisplay[NMAG !RW ILVL>60 7bl]:
