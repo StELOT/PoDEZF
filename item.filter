@@ -113,6 +113,13 @@ ItemDisplay[gpb]: %ORANGE%PERFECT SAPPHIRE
 ItemDisplay[gpy]: %ORANGE%PERFECT TOPAZ
 ItemDisplay[skz]: %ORANGE%PERFECT SKULL
 //Runes
+ItemDisplay[r17]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[r18]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[r19]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[r20]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[r21]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[r22]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[r23]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
 ItemDisplay[r24]: %ORANGE%@[[[[[[[[ %RUNENAME% ]]]]]]]]@
 ItemDisplay[r25]: %ORANGE%@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@
 ItemDisplay[r26]: %ORANGE%@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@
@@ -575,10 +582,10 @@ ItemDisplay[NMAG !RW xrn]:
 ItemDisplay[NMAG !RW urn]:
 ItemDisplay[NMAG !RW msk]:
 ItemDisplay[NMAG !RW xsk]:
-ItemDisplay[NMAG !RW usk]:
+ItemDisplay[NMAG DEF<148 !RW usk]:
 ItemDisplay[NMAG !RW bhm]:
 ItemDisplay[NMAG !RW xh9]:
-ItemDisplay[NMAG !RW uh9]:
+ItemDisplay[NMAG DEF<148 !RW uh9]:
 
 //Body Armor
 ItemDisplay[NMAG !RW SOCK<2 ILVL<45 qui]:
