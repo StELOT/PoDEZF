@@ -4,8 +4,15 @@ ItemDisplay[imra]: %NAME%{%WHITE%Cube with: %WHITE%Normal Map + %BLUE%Jewel %WHI
 ItemDisplay[rera]: %NAME%{%WHITE%Cube with: %YELLOW%Rare Map + %WHITE%Perfect Gem + %ORANGE%Thul [10]+ %WHITE%to make a %YELLOW%Rare Map}
 ItemDisplay[scou]: %NAME%{%WHITE%Cube with: %WHITE%Any Map + %ORANGE%Hel %WHITE%to make a %WHITE%White Map}
 ItemDisplay[upma]: %NAME%{%WHITE%Cube with: %BLUE%Magic Map + %ORANGE%Thul [10]+  + %WHITE%Perfect Skull to make a %YELLOW%Rare Map}
-ItemDisplay[RUNE>0]: %RUNENAME% Rune [%RUNENUM%]{%WHITE%Cube to swap between stackable and socketable version}
-ItemDisplay[GEM>3]: %NAME%{%WHITE%Cube to swap between stackable and socketable version}
+
+ItemDisplay[UNI]: %NAME%%MAP-A5% // Uniques
+ItemDisplay[SET]: %NAME%%MAP-84% // Sets
+ItemDisplay[RUNE>15]: %RED%%RUNENAME% %BORDER-50% // Runes
+ItemDisplay[MAG (cm1 OR cm2 OR cm3 OR amu) !ID]: %NAME%%MAP-91%
+ItemDisplay[RARE (amu OR rin) !ID]: %NAME%%MAP-A8%
+ItemDisplay[(wss OR lbox OR dcma OR dcbl OR dcho OR dcso OR imra OR imma OR scou OR rera OR upma OR t16 OR t17 OR t18)]: %NAME%%MAP-6C%
+ItemDisplay[(MAG OR RARE) EQ7]: %NAME%%MAP-A8%
+ItemDisplay[NMAG ETH (7s8 OR 7wc)]: %NAME%%MAP-D3%
 
 ItemDisplay[GOLD<4000]:
 //Health & Mana Potions
@@ -104,40 +111,41 @@ ItemDisplay[gsb]: sapphire
 ItemDisplay[gsy]: topaz
 ItemDisplay[sku]: skull
 //Flawless (Tier4): (Standard display with orange crafting indicator)
-ItemDisplay[gzv]: %ORANGE%Amethyst
-ItemDisplay[glw]: %ORANGE%Diamond
-ItemDisplay[glg]: %ORANGE%Emerald
-ItemDisplay[glr]: %ORANGE%Ruby
-ItemDisplay[glb]: %ORANGE%Sapphire
-ItemDisplay[gly]: %ORANGE%Topaz
-ItemDisplay[skl]: %ORANGE%Skull
+ItemDisplay[(gzv OR gzvs)]: %ORANGE%Amethyst
+ItemDisplay[(glw OR glws]: %ORANGE%Diamond
+ItemDisplay[(glg OR glgs)]: %ORANGE%Emerald
+ItemDisplay[(glr OR glrs)]: %ORANGE%Ruby
+ItemDisplay[(glb OR glbs)]: %ORANGE%Sapphire
+ItemDisplay[(gly OR glys)]: %ORANGE%Topaz
+ItemDisplay[(skl OR skls)]: %ORANGE%Skull
+
 //PERFECT (Tier5): (Uppercase display with orange crafting and tier indicator)
-ItemDisplay[gpv]: %ORANGE%PERFECT AM
-YST
-ItemDisplay[gpw]: %ORANGE%PERFECT DIAMOND
-ItemDisplay[gpg]: %ORANGE%PERFECT EMERALD
-ItemDisplay[gpr]: %ORANGE%PERFECT RUBY
-ItemDisplay[gpb]: %ORANGE%PERFECT SAPPHIRE
-ItemDisplay[gpy]: %ORANGE%PERFECT TOPAZ
-ItemDisplay[skz]: %ORANGE%PERFECT SKULL
+ItemDisplay[(gpv OR gpvs)]: %ORANGE%PERFECT AMETHYST
+ItemDisplay[(gpw OR gpws)]: %ORANGE%PERFECT DIAMOND
+ItemDisplay[(gpg OR gpgs)]: %ORANGE%PERFECT EMERALD
+ItemDisplay[(gpr OR gprs)]: %ORANGE%PERFECT RUBY
+ItemDisplay[(gpb OR gpbs)]: %ORANGE%PERFECT SAPPHIRE
+ItemDisplay[(gpy OR gpys)]: %ORANGE%PERFECT TOPAZ
+ItemDisplay[(skz OR skzs)]: %ORANGE%PERFECT SKULL
+
 //Runes
-ItemDisplay[r17]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r18]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r19]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r20]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r21]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r22]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r23]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
-ItemDisplay[r24]: %ORANGE%@[[[[[[[[ %RUNENAME% ]]]]]]]]@
-ItemDisplay[r25]: %ORANGE%@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@
-ItemDisplay[r26]: %ORANGE%@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@
-ItemDisplay[r27]: %ORANGE%@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@
-ItemDisplay[r28]: %ORANGE%@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@
-ItemDisplay[r29]: %ORANGE%@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@
-ItemDisplay[r30]: %ORANGE%@@@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@@@
-ItemDisplay[r31]: %ORANGE%@@@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@@@
-ItemDisplay[r32]: %ORANGE%@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@
-ItemDisplay[r33]: %ORANGE%@@@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@@@
+ItemDisplay[(r17 OR r17s)]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[(r18 OR r18s)]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[(r19 OR r19s)]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[(r20 OR r20s)]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[(r21 OR r21s)]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[(r22 OR r22s)]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[(r23 OR r23s)]: %ORANGE%[[[[[[[[ %RUNENAME% ]]]]]]]]
+ItemDisplay[(r24 OR r24s)]: %ORANGE%@[[[[[[[[ %RUNENAME% ]]]]]]]]@
+ItemDisplay[(r25 OR r25s)]: %ORANGE%@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@
+ItemDisplay[(r26 OR r26s)]: %ORANGE%@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@
+ItemDisplay[(r27 OR r27s)]: %ORANGE%@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@
+ItemDisplay[(r28 OR r28s)]: %ORANGE%@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@
+ItemDisplay[(r29 OR r29s)]: %ORANGE%@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@
+ItemDisplay[(r30 OR r30s)]: %ORANGE%@@@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@@@
+ItemDisplay[(r31 OR r31s)]: %ORANGE%@@@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@@@
+ItemDisplay[(r32 OR r32s)]: %ORANGE%@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@
+ItemDisplay[(r33 OR r33s)]: %ORANGE%@@@@@@@@[[[[[[[[ %RUNENAME% ]]]]]]]]@@@@@@@@
 
 //Weapons: Axe, Mace, Sword, Dagger, Throwing Weapon, Javelin, Spear, Polearm, Bow, Crossbow
 ItemDisplay[MAG WP1 !ID ILVL>25]:
