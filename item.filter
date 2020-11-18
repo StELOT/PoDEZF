@@ -13,6 +13,7 @@ ItemDisplay[RARE (amu OR rin) !ID]: %NAME%%MAP-A8%
 ItemDisplay[(wss OR lbox OR dcma OR dcbl OR dcho OR dcso OR imra OR imma OR scou OR rera OR upma OR t16 OR t17 OR t18)]: %NAME%%MAP-6C%
 ItemDisplay[(MAG OR RARE) EQ7 !ID]: %NAME%%MAP-A8%
 ItemDisplay[NMAG ETH (7s8 OR 7wc)]: %NAME%%MAP-D3%
+ItemDisplay[MAG uvg !ID]: %NAME%%MAP-91%
 
 ItemDisplay[GOLD<4000]:
 //Health & Mana Potions
